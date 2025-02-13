@@ -25,8 +25,7 @@ y_variables_and_lags = {
     'Y_CFO': ['CFO', 'CFO_lag1'],
     'Y_FCF': ['FCF', 'FCF_lag1'],
     'Y_ROE': ['ROE', 'ROE_lag1'],
-    'Y_ROA': ['ROA', 'ROA_lag1']
-}
+    'Y_ROA': ['ROA', 'ROA_lag1']}
 
 # Economic variables and their lags
 economic_vars = ['GDP', '3_month', '12_month']
